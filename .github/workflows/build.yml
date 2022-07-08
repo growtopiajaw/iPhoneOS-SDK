@@ -24,3 +24,4 @@ jobs:
           file: xcode/*.tar
           tag: v1.0
           file_glob: true
+          overwrite: true
