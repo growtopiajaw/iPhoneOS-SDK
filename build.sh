@@ -1,4 +1,5 @@
 #! /usr/local/bin/bash
+
 cd /Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
 for i in "$(ls | grep -v iPhoneOS.sdk)"; do sudo tar -cvhf /Users/runner/work/iPhoneOS-SDK/iPhoneOS-SDK/xcode/"$i".tar "$i"; done
 
