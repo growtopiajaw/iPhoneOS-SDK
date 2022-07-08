@@ -15,12 +15,9 @@ jobs:
       - run: |
           mkdir -p xcode
           cd xcode
-          sudo tar cvf Xcode_13.2.1.tar /Applications/Xcode_13.2.1.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
-          sudo tar cvf Xcode_13.1.tar /Applications/Xcode_13.1.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
-          sudo tar cvf Xcode_13.0.tar /Applications/Xcode_13.0.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
-          sudo tar cvf Xcode_12.5.1.tar /Applications/Xcode_12.5.1.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
-          sudo tar cvf Xcode_12.4.tar /Applications/Xcode_12.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
-          sudo tar cvf Xcode_11.7.tar /Applications/Xcode_11.7.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
+          sudo tar cvf Xcode_13.4.1.tar /Applications/Xcode_13.4.1.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
+          sudo tar cvf Xcode_13.4.tar /Applications/Xcode_13.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
+          sudo tar cvf Xcode_13.3.1.tar /Applications/Xcode_13.3.1.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
       - name: Upload release
         uses: svenstaro/upload-release-action@2.2.1
         with:
