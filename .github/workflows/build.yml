@@ -13,6 +13,8 @@ jobs:
     runs-on: macos-latest
     steps:
       - run: |
+          mkdir -p xcode
+          cd xcode
           sudo tar cvf Xcode_13.2.1.tar /Applications/Xcode_13.2.1.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
           sudo tar cvf Xcode_13.1.tar /Applications/Xcode_13.1.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
           sudo tar cvf Xcode_13.0.tar /Applications/Xcode_13.0.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs
@@ -23,6 +25,6 @@ jobs:
         uses: svenstaro/upload-release-action@2.2.1
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: *.tar
+          file: xcode/*.tar
           tag: v1.0
           file_glob: true
