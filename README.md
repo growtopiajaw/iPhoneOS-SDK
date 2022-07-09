@@ -38,42 +38,42 @@
 
 [iPhoneOS12.4.sdk.zip](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS12.4.sdk.zip)
 
-[iPhoneOS12.4.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS12.4.sdk.tar)
+[iPhoneOS12.4.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS12.4.sdk.tar.xz)
 
 [iPhoneOS13.1.sdk.zip](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.1.sdk.zip)
 
-[iPhoneOS13.2.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.2.sdk.tar)
+[iPhoneOS13.2.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.2.sdk.tar.xz)
 
 [iPhoneOS13.4.sdk.zip](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.4.sdk.zip)
 
-[iPhoneOS13.4.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.4.sdk.tar)
+[iPhoneOS13.4.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.4.sdk.tar.xz)
 
-[iPhoneOS13.5.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.5.sdk.tar)
+[iPhoneOS13.5.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.5.sdk.tar.xz)
 
-[iPhoneOS13.6.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.6.sdk.tar)
+[iPhoneOS13.6.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.6.sdk.tar.xz)
 
-[iPhoneOS13.7.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.7.sdk.tar)
+[iPhoneOS13.7.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.7.sdk.tar.xz)
 
 [iPhoneOS14.0.sdk.zip](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.0.sdk.zip)
 
-[iPhoneOS14.0.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.0.sdk.tar)
+[iPhoneOS14.0.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.0.sdk.tar.xz)
 
 [iPhoneOS14.1.sdk.zip](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.1.sdk.zip)
 
-[iPhoneOS14.1.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.1.sdk.tar)
+[iPhoneOS14.1.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.1.sdk.tar.xz)
 
-[iPhoneOS14.2.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.2.sdk.tar)
+[iPhoneOS14.2.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.2.sdk.tar.xz)
 
-[iPhoneOS14.3.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.3.sdk.tar)
+[iPhoneOS14.3.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.3.sdk.tar.xz)
 
-[iPhoneOS14.4.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.4.sdk.tar)
+[iPhoneOS14.4.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.4.sdk.tar.xz)
 
-[iPhoneOS14.5.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.5.sdk.tar)
+[iPhoneOS14.5.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS14.5.sdk.tar.xz)
 
-[iPhoneOS15.0.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS15.0.sdk.tar)
+[iPhoneOS15.0.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS15.0.sdk.tar.xz)
 
-[iPhoneOS15.2.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS15.2.sdk.tar)
+[iPhoneOS15.2.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS15.2.sdk.tar.xz)
 
-[iPhoneOS15.4.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS15.4.sdk.tar)
+[iPhoneOS15.4.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS15.4.sdk.tar.xz)
 
-[iPhoneOS15.5.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS15.5.sdk.tar)
+[iPhoneOS15.5.sdk.tar.xz](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS15.5.sdk.tar.xz)
