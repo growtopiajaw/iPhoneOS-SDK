@@ -36,6 +36,8 @@
 
 [iPhoneOS12.1.sdk.zip](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS12.1.sdk.zip)
 
+[iPhoneOS12.4.sdk.zip](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS12.4.sdk.zip)
+
 [iPhoneOS12.4.sdk.tar](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS12.4.sdk.tar)
 
 [iPhoneOS13.1.sdk.zip](https://github.com/GrowtopiaJaw/iPhoneOS-SDK/releases/download/v1.0/iPhoneOS13.1.sdk.zip)
